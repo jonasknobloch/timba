@@ -1,0 +1,12 @@
+﻿User,Email,Client,Project,Task,Description,Billable,Start date,Start time,End date,End time,Duration,Tags,Amount ()
+Jonas,jonas@example.com,,INF-VERT6,,Formale Baumsprachen,No,2022-06-07,11:45:58,2022-06-07,12:30:58,00:45:00,,
+Jonas,jonas@example.com,,INF-VERT6,,Formale Baumsprachen,No,2022-06-07,13:25:10,2022-06-07,14:40:10,01:15:00,,
+Jonas,jonas@example.com,,INF-VERT6,,Formale Baumsprachen,No,2022-06-07,15:05:34,2022-06-07,16:25:34,01:20:00,,
+Jonas,jonas@example.com,,INF-VERT6,,Formale Baumsprachen,No,2022-06-07,16:45:31,2022-06-07,17:00:31,00:15:00,,
+Jonas,jonas@example.com,,INF-VERT6,,Formale Baumsprachen,No,2022-06-08,11:40:25,2022-06-08,12:30:25,00:50:00,,
+Jonas,jonas@example.com,,INF-VERT6,,Formale Baumsprachen,No,2022-06-08,15:05:48,2022-06-08,16:05:48,01:00:00,,
+Jonas,jonas@example.com,,INF-VERT6,,Formale Baumsprachen,No,2022-06-08,16:25:02,2022-06-08,17:15:02,00:50:00,,
+Jonas,jonas@example.com,,INF-VERT6,,Formale Baumsprachen,No,2022-06-08,17:30:45,2022-06-08,18:30:45,01:00:00,,
+Jonas,jonas@example.com,,INF-VERT6,,Formale Baumsprachen,No,2022-06-09,12:50:25,2022-06-09,14:05:25,01:15:00,,
+Jonas,jonas@example.com,,INF-VERT6,,Formale Baumsprachen,No,2022-06-09,15:15:57,2022-06-09,16:30:57,01:15:00,,
+Jonas,jonas@example.com,,INF-VERT6,,Formale Baumsprachen,No,2022-06-09,17:05:03,2022-06-09,18:05:03,01:00:00,,
