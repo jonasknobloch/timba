@@ -57,4 +57,7 @@ timba toggl.csv > toggl.json
 }
 ```
 
+## Screenshots
 
+![Screenshot toggl](screenshot_toggl.png)
+![Screenshot Tim](screenshot_tim.png)
