@@ -7,6 +7,9 @@ of the [Tim Time Tracker](https://tim.neat.software).
 
 The `tim` package can be used to manually create a tim backup file. See `tim/exampe_test.go` for details.
 
+*This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with
+Neat Software Co. or any of its subsidiaries or its affiliates.*
+
 ## Usage
 
 ```
