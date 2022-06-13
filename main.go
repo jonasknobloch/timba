@@ -4,11 +4,11 @@ import (
 	"encoding/csv"
 	"fmt"
 	"github.com/google/uuid"
+	"github.com/jonasknobloch/timba/tim"
 	"io"
 	"log"
 	"os"
 	"strings"
-	"timba/tim"
 	"time"
 )
 

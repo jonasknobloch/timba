@@ -3,7 +3,7 @@ package tim_test
 import (
 	"fmt"
 	"github.com/google/uuid"
-	"timba/tim"
+	"github.com/jonasknobloch/timba/tim"
 	"time"
 )
 

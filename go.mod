@@ -1,4 +1,4 @@
-module timba
+module github.com/jonasknobloch/timba
 
 go 1.18
 
