@@ -1,5 +1,7 @@
 # Timba
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/jonasknobloch/timba)](https://goreportcard.com/report/github.com/jonasknobloch/timba)
+
 Timba is a dead simple CLI tool to convert [toggl track](https://track.toggl.com) CSV exports into the backup format
 of the [Tim Time Tracker](https://tim.neat.software).
 
