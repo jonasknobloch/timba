@@ -5,7 +5,8 @@ of the [Tim Time Tracker](https://tim.neat.software).
 
 **Features reserved for the toggl premium tier (tasks & billing) are not supported.**
 
-The `tim` package can be used to manually create a tim backup file. See `tim/exampe_test.go` for details.
+The `tim` package can be used to manually create a tim backup file.
+See [tim/example_test.go](tim/example_test.go) for details.
 
 *This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with
 Neat Software Co. or any of its subsidiaries or its affiliates.*
